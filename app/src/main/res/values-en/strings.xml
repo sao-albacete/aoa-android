@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ornithological Yearbook of Albacete</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="sociedad_albacetense_de_ornitologia">Albacete Ornithological Society</string>
+    <string name="especies">Especies</string>
+    <string name="lista_de_aves">Lista de aves</string>
+    <string name="especies_objetivo">Especies objetivo</string>
+    <string name="citas">Citas</string>
+    <string name="buscar_citas">Buscar citas</string>
+    <string name="nueva_cita">Nueva cita</string>
+    <string name="fotos">Fotos</string>
+</resources>
